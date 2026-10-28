@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Parikshit 👋</h1>
-<h3 align="center">CS Undergraduate | Developer in Progress</h3>
+<h3 align="center">|CS Undergraduate|</h3>
 
 <p align="center">
   Computer Science student at Dayananda Sagar College of Engineering, Bangalore.
