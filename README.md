@@ -43,7 +43,7 @@ judging and a web frontend.
 - Improved the frontend and multi-LLM judging workflow.
 - Contributed to Sepolia testnet deployment preparation.
 
-**Focus:** Web3 · LLM Integration · Frontend Development · Blockchain
+**Focus:** Web3 · LLM Integration · Backend
 
 - **MediLink** — An ambulance-side interface for recording patient
   vitals and sharing estimated arrival times.
