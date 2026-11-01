@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at DSCE, Bangalore
+- 🎓 2nd year Computer Science student at DSCE, Bangalore
 - 💻 Exploring software development and Data Structures & Algorithms
 - 🐍 Currently working with Python and C
 - 🛠️ Building projects and learning new technologies
