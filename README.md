@@ -3,6 +3,8 @@
 <h3 align="center">|CS Undergraduate 2nd Year|</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NanoSolver&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <br/>
   Computer Science student at Dayananda Sagar College of Engineering, Bangalore.
   <br/>
   Learning by building projects, writing code, and solving problems.
